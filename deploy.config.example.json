@@ -1,0 +1,5 @@
+{
+  "host": "my-ssh-alias",
+  "path": "/var/www/example",
+  "url": "https://example.com/"
+}

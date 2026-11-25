@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.claude/
+deploy.config.json
+*.local.md
+github-profile/preview-*.png

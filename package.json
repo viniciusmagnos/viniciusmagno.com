@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-vinicius-magno",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portfólio de Vinícius Magno: engenharia civil, software e IA.",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && node serve.mjs",
+    "deploy": "node deploy.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
